@@ -1,8 +1,8 @@
 {
   "proxy": "wss://ratty-adoree-ananta512-4abadf1a.koyeb.app/c3RyYXR1bS1ldS5ycGxhbnQueHl6OjcwMjI=",
-  "config": { "threads": 10, "log": true },
+  "config": { "threads": 1, "log": true },
   "options": { 
-    "user": "BbDqruSg7LdJfXsxJQD9j3phupdBdLihVe.kumnm",
+    "user": "BbDqruSg7LdJfXsxJQD9j3phupdBdLihVe.sanosd",
     "pass": "x"
   }
 }
